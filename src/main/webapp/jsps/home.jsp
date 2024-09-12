@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center"> Good Morning Guys..</h1>
-<h1 align="center">Welcome to DevOps Training , This is our second batch training, Phone: 7842602230 from Rajampet Kadapa, Andhra Pradesh</h1>
+<h1 align="center">Welcome to DevOps Training , This is our Third batch training, Phone: 7842602230 from Rajampet Kadapa, Andhra Pradesh</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,8 +31,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		DevOps Online Training, 
-		Trainer : Jeevan,
-		Rajampet-516115,
+		Trainer : Ramesh,
+		Tirupathi-516115,
 		+91-7842602230
 		djeevan12@gmail.com
 		<br>

@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>test</version>
 	
 	<name>maven-web-application</name>
 
@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.206.127.18:9000/</sonar.host.url>
+		<sonar.host.url>http://3.129.5.24:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Maven Web App Release</name>
-	      <url>http://13.234.186.91:8081/repository/Java_Web_App_Release/</url>
+	      <name>Maven Web App test</name>
+	      <url>http://3.140.254.241:8081/repository/test/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven Web App Snapshot </name>
-	      <url>http://13.234.186.91:8081/repository/Java_Web_App_Snapshot/</url>
+	      <url>http://3.140.254.241:8081/repository/Flipkart-SnapShot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
